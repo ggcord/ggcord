@@ -1,0 +1,8 @@
+import pandas as pd
+
+geolocation_info_df = pd.DataFrame({
+    'address': ['Av. Engenheiro Luis Carlos Berrini'],
+    'address_number': ['105'],
+    'address_city': ['São Paulo'],
+    'address_state': ['SP']
+})
